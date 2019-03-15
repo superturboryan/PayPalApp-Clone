@@ -1,5 +1,5 @@
 # PayPalApp-Clone
-Paypal app interface only copy
+Paypal app interface copy
 
 ## Screenshots
 
