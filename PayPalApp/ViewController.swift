@@ -19,8 +19,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var balanceView: UIView!
     
     @IBOutlet weak var getMoreView: UIView!
-    
-    
+        
     override func viewDidLoad() {
         super.viewDidLoad()
 
